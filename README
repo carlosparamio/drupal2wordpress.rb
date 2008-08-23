@@ -1,0 +1,15 @@
+Quick'n'dirty Ruby script to migrate Drupal blog posts to WordPress
+
+*** WARNING*** 
+Still not tested after first refactor, it could be broken. If you want to run it, do it at your own risk, and make databases backups first.
+*** WARNING*** 
+
+TODO
+
+- General refactor
+- Ask user each interesting required value instead of hardcode it
+- Import Drupal blog nodes only
+- Count number of posts on each category
+- Use DataMapper to avoid ActiveRecord default behavior at some points
+- Separate worksize in tinier blocks instead of load all at memory
+- Add useful output
