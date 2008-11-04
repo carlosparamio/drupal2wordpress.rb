@@ -1,4 +1,4 @@
-Quick'n'dirty Ruby script to migrate Drupal blog posts to WordPress
+Quick'n'dirty Ruby script to migrate Drupal blog posts to WordPress, written initially for Drupal 4.7.11.
 
 *** WARNING*** 
 Still not tested after first refactor, it could be broken. If you want to run it, do it at your own risk, and make databases backups first.
